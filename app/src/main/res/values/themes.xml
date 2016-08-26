@@ -13,8 +13,10 @@
         <item name="actionBarStyle">@style/action_bar_wh</item>
     </style>
 
-    <style name="Theme.YOUR_CUSTOM_THEME" parent="Theme.AppCompat.Light">
-        <!-- Define styles for YOUR_CUSTOM_THEME here. -->
+    <style name="Theme.Dusk_Poppy" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_bg</item>
+        <item name="whiteBackground">@style/dark_background_wh</item>
+        <item name="textLarge">@style/text_large_thin_wh</item>
     </style>
 
 </resources>
