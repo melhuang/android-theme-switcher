@@ -19,4 +19,10 @@
         <item name="textLarge">@style/text_large_thin_wh</item>
     </style>
 
+    <style name="Theme.Ocean_Breeze" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_bg</item>
+        <item name="whiteBackground">@style/dark_background_wh</item>
+        <item name="textLarge">@style/text_large_thin_wh</item>
+    </style>
+
 </resources>
