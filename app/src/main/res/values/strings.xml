@@ -17,6 +17,7 @@
     <string-array name="theme_array">
         <item>Material-Light</item>
         <item>Dusk-Poppy</item>
+        <item>Ocean-Breeze</item>
     </string-array>
 
 </resources>

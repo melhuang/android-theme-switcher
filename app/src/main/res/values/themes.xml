@@ -15,14 +15,19 @@
 
     <style name="Theme.Dusk_Poppy" parent="Theme.AppCompat.Light">
         <item name="pageBackground">@style/page_background_bg</item>
-        <item name="whiteBackground">@style/dark_background_wh</item>
+        <item name="whiteBackground">@style/white_background_wh</item>
         <item name="textLarge">@style/text_large_thin_wh</item>
+        <item name="spinner">@style/spinner_bg</item>
+        <item name="button">@style/button_bg</item>
     </style>
 
     <style name="Theme.Ocean_Breeze" parent="Theme.AppCompat.Light">
-        <item name="pageBackground">@style/page_background_bg</item>
-        <item name="whiteBackground">@style/dark_background_wh</item>
-        <item name="textLarge">@style/text_large_thin_wh</item>
+        <item name="pageBackground">@style/page_background_blue</item>
+        <item name="whiteBackground">@style/white_background_wh</item>
+        <item name="textLarge">@style/text_large_thin_blue</item>
+        <item name="textRegular">@style/text_regular_blue</item>
+        <item name="button">@style/button_blue</item>
+
     </style>
 
 </resources>
